@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/bhilburn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hokietux.net
+  * I am bhilburn (https://keybase.io/bhilburn) on keybase.
+  * I have a public key ASB6xCXVJv5FztRmWaa9V7HT1eRtdyln8MHDpyxB5-QhOAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c90d6603e9e616c494e48e7f95d061409e2c322e6bbb48e29ab11758c35b8d230a",
+            "host": "keybase.io",
+            "kid": "01207ac425d526fe45ced46659a6bd57b1d3d5e46d772967f0c1c3a72c41e7e421380a",
+            "uid": "29c68b1dd10276bf7be02f8218030e19",
+            "username": "bhilburn"
+        },
+        "service": {
+            "hostname": "hokietux.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1495647003,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495646835,
+        "hash": "53e25ed34ac24f2d76102c0d3f765af265759c60ac551b18a9701023674c0ee67cb6207db77f673593e00e39e47f5d594ae6d7a2e19da6284fe35376baf3b5d9",
+        "seqno": 1106951
+    },
+    "prev": "38a1a130c9dd14734ccdc3385b3e6c0c26c92f911a0543a4122505a152791af5",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgesQl1Sb+Rc7UZlmmvVex09XkbXcpZ/DBw6csQefkITgKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzkwZDY2MDNlOWU2MTZjNDk0ZTQ4ZTdmOTVkMDYxNDA5ZTJjMzIyZTZiYmI0OGUyOWFiMTE3NThjMzViOGQyMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2FjNDI1ZDUyNmZlNDVjZWQ0NjY1OWE2YmQ1N2IxZDNkNWU0NmQ3NzI5NjdmMGMxYzNhNzJjNDFlN2U0MjEzODBhIiwidWlkIjoiMjljNjhiMWRkMTAyNzZiZjdiZTAyZjgyMTgwMzBlMTkiLCJ1c2VybmFtZSI6ImJoaWxidXJuIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJob2tpZXR1eC5uZXQiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NTY0NzAwMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk1NjQ2ODM1LCJoYXNoIjoiNTNlMjVlZDM0YWMyNGYyZDc2MTAyYzBkM2Y3NjVhZjI2NTc1OWM2MGFjNTUxYjE4YTk3MDEwMjM2NzRjMGVlNjdjYjYyMDdkYjc3ZjY3MzU5M2UwMGUzOWU0N2Y1ZDU5NGFlNmQ3YTJlMTlkYTYyODRmZTM1Mzc2YmFmM2I1ZDkiLCJzZXFubyI6MTEwNjk1MX0sInByZXYiOiIzOGExYTEzMGM5ZGQxNDczNGNjZGMzMzg1YjNlNmMwYzI2YzkyZjkxMWEwNTQzYTQxMjI1MDVhMTUyNzkxYWY1Iiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQE4jU186iOJRsieDRrIfrhAII9MdWxhIfbEJjbk9Yq7eFwrq0iQFJDCIgmXwMRTsd3fAkG/LZQUjpnHl64CfiACoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCSX9gzoDqA1Er4Kb8WZztIXNefItqMf2HKQOhWgbczgqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bhilburn
+
+==================================================================
